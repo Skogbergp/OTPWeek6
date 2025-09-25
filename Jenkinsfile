@@ -6,7 +6,7 @@ pipeline {
                 // Define Docker Hub credentials ID
                 DOCKERHUB_CREDENTIALS_ID = 'Docker_Hub'
                 // Define Docker Hub repository name
-                DOCKERHUB_REPO = 'Skogbergp/OTPWeek6'
+                DOCKERHUB_REPO = 'Hatrik/OTPWeek6'
                 // Define Docker image tag
                 DOCKER_IMAGE_TAG = 'latest'
             }
